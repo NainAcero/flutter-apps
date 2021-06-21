@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "394654830441",
+    "firebase_url": "https://whatsionic-95a6e.firebaseio.com",
+    "project_id": "whatsionic-95a6e",
+    "storage_bucket": "whatsionic-95a6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394654830441:android:6e58ef629605bf83b8b7f8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_clean_arquitect_whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394654830441-u7fl5p77mhb1vkifh4okk772lgii5mt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_clean_arquitect_whatsapp",
+            "certificate_hash": "0221b115dea2c59843f2dd6f77316b65033cc810"
+          }
+        },
+        {
+          "client_id": "394654830441-8mqs4n1mtd9lmcdh71djfrrqb6iklu5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDB9Y3sGSiheEnnBT5M8wr6Q0fNx-CaN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394654830441-8mqs4n1mtd9lmcdh71djfrrqb6iklu5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "800928123299",
+    "firebase_url": "https://styleloveweb.firebaseio.com",
+    "project_id": "styleloveweb",
+    "storage_bucket": "styleloveweb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800928123299:android:c9988f3c939954db3b7216",
+        "android_client_info": {
+          "package_name": "com.example.flutter_face_detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800928123299-n42eepvs9cke3gr2sf614kp85l6n377q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi8HFdBkbL2goL54TE4aG2d_PTeIfYCXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800928123299-n42eepvs9cke3gr2sf614kp85l6n377q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

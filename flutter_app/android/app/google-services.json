@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1041841867391",
+    "firebase_url": "https://templarios-7f02f.firebaseio.com",
+    "project_id": "templarios-7f02f",
+    "storage_bucket": "templarios-7f02f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041841867391:android:5a6f5195d61e62b1f70d4a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041841867391-ts08k419f3jheuv83uflakki8it940ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP9ZitkJzomv4rERbI0gmhPtQy7BpaiKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041841867391-ts08k419f3jheuv83uflakki8it940ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

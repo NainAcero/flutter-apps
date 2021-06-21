@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "821859413681",
+    "firebase_url": "https://seismic-spot-235523.firebaseio.com",
+    "project_id": "seismic-spot-235523",
+    "storage_bucket": "seismic-spot-235523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821859413681:android:d48393063ca5f6bd317c90",
+        "android_client_info": {
+          "package_name": "com.example.flutter_clean_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821859413681-78eap1gd649m9qd1ama3s6j41ri07p1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB3EMiLTdMvepaA_92TmK24sYzu-ENUMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821859413681-78eap1gd649m9qd1ama3s6j41ri07p1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

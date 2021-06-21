@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059354224109",
+    "project_id": "bingo-esis",
+    "storage_bucket": "bingo-esis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059354224109:android:419fba87b5b28a13b873e4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ingles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059354224109-ia7qsiopbnemipm4nhf5j4kh467hq0i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAugO_Uv5GYcaNxViEGW9qXpe92xIc-Y2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059354224109-ia7qsiopbnemipm4nhf5j4kh467hq0i0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
